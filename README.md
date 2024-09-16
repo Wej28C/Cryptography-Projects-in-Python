@@ -51,3 +51,7 @@ Throughout these practicals, I've explored and implemented the following cryptog
 - **Feistel Network Visualization**: Displayed diffusion and confusion using graphical outputs.
 - **Elliptic Curve Plotting**: Generated plots of elliptic curves for use in cryptographic key exchanges.
 - **SHA-256 Distribution**: Compared the frequency of byte occurrences in SHA-256 outputs, confirming the robustness of the hash function.
+## 🧠 Key Learnings
+- Developed a deep understanding of both classical and modern cryptographic algorithms.
+- Enhanced practical skills in Python, focusing on encryption, decryption, and data integrity.
+- Gained proficiency in error detection, hashing, and compression techniques, key to building secure systems.
